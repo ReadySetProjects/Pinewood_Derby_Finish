@@ -1,7 +1,3 @@
-## +============================================================+
-## Ready Set Projects Pinewood Derby Finishline Timer README  |
-## +============================================================+
-
 ## Forword
 
 this provided code and any documentation in this repository comes with no warranty or expectations. I 
@@ -23,7 +19,10 @@ breadboard so it was meand for shiftNumOut() to display 2 digits and ducplicate 
 
 ## RSP_PinewoodDerbyFinish.ino
 
-[ ] 
+This file is fully functional as shown in the video!
+
+I did walk through the code qucikly in the video so look there first for an explination on how everything works.
+Arduino is not my normal playground, so hopefully my C coding style hasn't come out too much in the code....
 
 ## Support
 
