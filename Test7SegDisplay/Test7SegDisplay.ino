@@ -1,4 +1,10 @@
 /*
+Copyright (c) 2022, Ready Set Robbins
+All rights reserved.
+
+This source code is licensed under the BSD-style license found in the
+LICENSE file in the root directory of this source tree.
+
 File:   Test7SegDisplay.ino
 Author: Colby Robbins
 Date:   05\09\2022
